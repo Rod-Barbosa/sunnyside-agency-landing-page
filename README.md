@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Portfolio](https://gelatodigital.com/portfolio)
+- Solution URL: [Portfolio](https://gelatodigital.com/#portfolio)
 - Live Site URL: [rodrigos-sunnyside-agency-landing-page.netlify.app/](https://rodrigos-sunnyside-agency-landing-page.netlify.app/)
 
 ## My process
