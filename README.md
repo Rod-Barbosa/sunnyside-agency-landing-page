@@ -102,3 +102,5 @@ Sass and scss is obviously the way to go from here
 ## Acknowledgments
 
 Thank you for my buddy Steven for reminding me how useful the screenshot tool on firefox is. I'll probably switch to developing in firefox
+
+
